@@ -4,6 +4,6 @@ public class Amst
 {
 	public static void main(String[] args)
 	{
-		
+		asfsadf
 	}
 }
